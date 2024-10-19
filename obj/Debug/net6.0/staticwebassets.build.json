@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vLy0/NBCd/fgudEGasnifqSz0FGs7WIYnHbzZcJeb88=",
+  "Source": "deploy-test-api",
+  "BasePath": "_content/deploy-test-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
